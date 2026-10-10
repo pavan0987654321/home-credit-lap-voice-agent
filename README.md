@@ -69,5 +69,13 @@ Recordings and transcripts are maintained separately as project evidence.
 ## Limitations
 
 This is a preliminary qualification assistant, not an automated loan approval system. It does not calculate or promise interest rates, guarantee approval, or replace review by a loan expert.
+#links 
+## Demo and Test Evidence
+
+- **Published Retell AI agent demo:** [Try the voice agent](https://agent.retellai.com/orb/agent_c36ccc2eb4bf4ab39c2716f99d?token=f3b4e28870a44920f7b8334040ba76b8)
+- **Test recordings and transcripts:** [Open Google Drive evidence folder](https://drive.google.com/drive/folders/1vn0x8DH5GLo1zHllXIq3BShewawJwlln?usp=drive_link)
+- **Screen recording:** Available in the Google Drive folder above.
+
+
 
 The implementation uses Retell AI configuration rather than a custom-coded voice platform.
